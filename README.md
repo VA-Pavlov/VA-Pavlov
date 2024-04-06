@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Slava
 
-Skills: C# / ADO.NEW /ASP.NET/ T-SQL /HTML / CSS / Java
+<h2>Skills: C# / ADO.NEW /ASP.NET/ T-SQL /HTML / CSS / Java / HTML / CSS</h2>
 
 <picture>
   <source
